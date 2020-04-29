@@ -14,7 +14,7 @@ MYSQL_PORT = 3306
 MYSQL_USER = "root"
 MYSQL_PASSWORD = "root"
 
-app.config["SQLALCHEMY_DATABASE_URI"] = "mysql+mysqlconnector://root:root@127.0.0.1:3306/diagnosis"
+app.config["SQLALCHEMY_DATABASE_URI"] = "mysql+mysqlconnector://root:root@182.61.24.246:3306/diagnose"
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = True
 # init mysql
 db = SQLAlchemy(app)
