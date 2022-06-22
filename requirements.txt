@@ -21,7 +21,7 @@ MarkupSafe==1.1.1
 marshmallow==3.5.1
 marshmallow-sqlalchemy==0.22.3
 mysql-connector==2.2.9
-numpy==1.18.1
+numpy==1.22.0
 opencv-python==4.2.0.32
 passlib==1.6.1
 PyMySQL==0.9.3
